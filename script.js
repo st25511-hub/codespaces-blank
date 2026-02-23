@@ -17,7 +17,7 @@ trailer: "https://www.youtube.com/watch?v=TcMBFSGVi1c"
 title: "Encanto",
 genre: "fantasy",
 rating: "8.7/10",
-poster: "https://m.media-amazon.com/images/I/81O1+YqzPXL._AC_SL1500_.jpg",
+poster: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxcOexFxWzPsONGemEf7UXtXZkmJamv1mFTfin3tY3QggXSfhf",
 trailer: "https://www.youtube.com/watch?v=CaimKeDcudo"
 },
 {
