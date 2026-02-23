@@ -24,7 +24,7 @@ trailer: "https://www.youtube.com/watch?v=CaimKeDcudo"
 title: "The Conjuring",
 genre: "horror",
 rating: "8.3/10",
-poster: "https://m.media-amazon.com/images/I/91Jj+1dXbLL._AC_SL1500_.jpg",
+poster: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4QDQ02jnYAmtrlZqaWAj-NN618hkj7aIT7qI5bYzeNFkGhqW7",
 trailer: "https://www.youtube.com/watch?v=k10ETZ41q5o"
 },
 {
