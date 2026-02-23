@@ -3,7 +3,7 @@ const content = [
 title: "Imagine Me & You",
 genre: "romance",
 rating: "8.5/10",
-poster: "https://m.media-amazon.com/images/M/MV5BMjE1NjM4ODU5NF5BMl5BanBnXkFtZTcwNjQ0OTczMQ@@._V1_.jpg",
+poster: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlYPXWwmXoFlNOh0Gk8crASR5hEhePsTl3N1XMGccfQCNIHypq",
 trailer: "https://www.youtube.com/watch?v=RzJz3lKX8bA"
 },
 {
