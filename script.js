@@ -31,7 +31,7 @@ trailer: "https://www.youtube.com/watch?v=k10ETZ41q5o"
 title: "Stranger Things",
 genre: "fantasy",
 rating: "8.8/10",
-poster: "https://m.media-amazon.com/images/I/81WcnNQ-TBL._AC_SL1500_.jpg",
+poster: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyxAU5r7WU26MZ0nPj_DB_bXb8PSoMxKS8G3F2NFiUvHZr7Wya",
 trailer: "https://www.youtube.com/watch?v=b9EkMc79ZSU"
 },
 {
