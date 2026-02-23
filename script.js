@@ -38,7 +38,7 @@ trailer: "https://www.youtube.com/watch?v=b9EkMc79ZSU"
 title: "Wednesday",
 genre: "fantasy",
 rating: "8.2/10",
-poster: "https://m.media-amazon.com/images/I/81wKz8XwWbL._AC_SL1500_.jpg",
+poster: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJOOBsSXu5RmCS5Y_hvl_g6zaznOgE6VD2Teh3dqqfeiTa00Vk",
 trailer: "https://www.youtube.com/watch?v=Di310WS8zLk"
 }
 ];
