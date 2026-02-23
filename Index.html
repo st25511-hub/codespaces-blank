@@ -1,11 +1,31 @@
+<!DOCTYPE html>
 <html>
-    <head>
-    <title> My hobby </title>
-    </head>
-    <body>
-     <header>
-        <nav>
-        </nav>
-    </header>
-    </body>
+<head>
+    <title>Daryne's Cinematic World</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>🎬 Daryne's Cinematic World</h1>
+    <p>My Favourite Movies & Series</p>
+</header>
+
+<section class="filters">
+    <button onclick="filterContent('all')">All</button>
+    <button onclick="filterContent('fantasy')">Fantasy</button>
+    <button onclick="filterContent('action')">Action</button>
+    <button onclick="filterContent('horror')">Horror</button>
+    <button onclick="filterContent('romance')">Romance</button>
+</section>
+
+<section id="contentList" class="content-grid"></section>
+
+<section class="recommendations">
+    <h2>🌟 My Recommendations</h2>
+    <ul id="recommendList"></ul>
+</section>
+
+<script src="script.js"></script>
+</body>
 </html>
