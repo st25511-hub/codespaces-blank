@@ -41,6 +41,13 @@ rating: "8.2/10",
 poster: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJOOBsSXu5RmCS5Y_hvl_g6zaznOgE6VD2Teh3dqqfeiTa00Vk",
 trailer: "https://www.youtube.com/watch?v=Di310WS8zLk"
 },
+{
+title: "Outer Banks"
+genre: "drama"
+rating: "8/10"
+poster: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxVJKULMOk8UvjqMTjL49r8ejFYW8K6znHezxsyF4bx8dJ2HWd"
+trailer: "https://www.youtube.com/watch?v=pfY3j-3uQhk&t=30s"
+}
 ];
 
 const contentList = document.getElementById("contentList");
