@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Movies & Series</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="movies.html">Movies & Series</a>
+    <a href="contact.html">Contact</a>
+</nav>
+
+<h1>🎥 My Favourite Movies & Series</h1>
+
+<div class="filters">
+    <button onclick="filterSelection('all')">All</button>
+    <button onclick="filterSelection('action')">Action</button>
+    <button onclick="filterSelection('fantasy')">Fantasy</button>
+    <button onclick="filterSelection('horror')">Horror</button>
+    <button onclick="filterSelection('romance')">Romance</button>
+    <button onclick="filterSelection('drama')">Drama</button>
+</div>
+
+<div id="movieContainer" class="grid"></div>
+
+<h2>⭐ My Recommendations</h2>
+<ul id="recommendList"></ul>
+
+<script src="script.js"></script>
+</body>
+</html>
